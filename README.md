@@ -1,49 +1,49 @@
 
-  <h1 align="center">README.md Generator powered by Node js</h1>
+  <h1 align="center">README.md Generator using Node.js</h1>
 
 
   ## Description
-  Here we are producing a readme generator for projects.
+  The project helps you streamline your readme to make it easy to follow and have more of a uniform for the infomation anout your project. Created using node.js it  populates an outline that has been set up for guidence.<iframe src="https://drive.google.com/file/d/1x0jHp7tQmgHFSriJiakgQOLX8Yi0Bs6g/preview" width="640" height="480"></iframe>
 
 
 
   ## Table Of Contents
-    -[Description](#discriptionOfProject)
-    -[Instalation](#instalationOfProject)
-    -[Usage](#usageOfProject)
-    -[License](licenseOfProject)
-    -[Test](testOfProject)
-    -[Issues](issuesOfProject)
-    -[Contributors](contributorsOfProject)
+    - [Description](#discriptionOfProject)
+    - [Installation](#instalationOfProject)
+    - [Usage](#usageOfProject)
+    - [License](#licenseOfProject)
+    - [Test](#testOfProject)
+    - [Issues](#issuesOfProject)
+    - [Contributors](#contributorsOfProject)
 
 
 
-  ##Instalation
+  ##Installation
   undefined
 
   ##Usage
-  To visualy have a functioning readme that is stream lined.
+  We can use this to make sure that we are creating easily read README.md.
 
   ##License
-  Open
+  MIT
 
-  This apllication is covered by the Open license.
+  This application is covered by the MIT license.
 
   ##Test
-  na
+  No test were included.
 
   ##Issues
-  na
+  N/A
 
   ##Contributors
-  na
+  Just myself, Michael Griffith.
 
 
   #Github
-  GriffMike
+  GriffMike167
 
   #Email
-  griffmike
+  griffithcmichael@gmail.com
 
 
 

@@ -22,7 +22,7 @@ function promptUser(){
 },
 {   type: "input",
     message: "Was there an instilation proccess, if so what was it?",
-    name: "instilationOfProject",
+    name: "installationOfProject",
 },
 {   type: "input",
     message: "what is the usage of this project?",

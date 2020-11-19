@@ -11,7 +11,7 @@ function generateMarkdown(answers) {
 
   ## Table Of Contents
     - [Description](#discriptionOfProject)
-    - [Instalation](#instalationOfProject)
+    - [Installation](#installationOfProject)
     - [Usage](#usageOfProject)
     - [License](#licenseOfProject)
     - [Test](#testOfProject)
