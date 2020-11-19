@@ -22,31 +22,31 @@
 <img src="WorkingNode.js.png" alt="working node.js">
 
 
-  ##Installation
+  ## Installation
   undefined
 
-  ##Usage
+  ## Usage
   We can use this to make sure that we are creating easily read README.md.
 
-  ##License
+  ## License
   MIT
 
   This application is covered by the MIT license.
 
-  ##Test
+  ## Test
   No test were included.
 
-  ##Issues
+  ## Issues
   N/A
 
-  ##Contributors
+  ## Contributors
   Just myself, Michael Griffith.
 
 
-  #Github
+  # Github
   GriffMike167
 
-  #Email
+  # Email
   griffithcmichael@gmail.com
 
 
