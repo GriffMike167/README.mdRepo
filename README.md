@@ -19,7 +19,7 @@
 
 
 <img src="WorkingNode.js.png" alt="working node.js">
-![working node.js][WorkingNode.js.png]
+
 
   ##Installation
   undefined
