@@ -5,11 +5,13 @@
   ## Description
   The project helps you streamline your readme to make it easy to follow and have more of a uniform for the information about your project. Created using node.js it  populates an outline that has been set up for guidance.
   
-  <video src="readmevideo.webm" width="640" height="480">
-
+  
+  
 
 
   ## Table Of Contents
+  
+    - [Title](#titleOfProject)
     - [Description](#descriptionOfProject)
     - [Installation](#installationOfProject)
     - [Usage](#usageOfProject)
