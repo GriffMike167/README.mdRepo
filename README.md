@@ -10,8 +10,8 @@
 
 
   ## Table Of Contents
-    [Description](#discriptionOfProject)
-    [Installation](#instalationOfProject)
+    [Description](#descriptionOfProject)
+    [Installation](#installationOfProject)
     -[Usage](#usageOfProject)
     - [License](#licenseOfProject)
     - [Test](#testOfProject)
