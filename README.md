@@ -10,9 +10,9 @@
 
 
   ## Table Of Contents
-    [Description](#descriptionOfProject)
-    [Installation](#installationOfProject)
-    -[Usage](#usageOfProject)
+    - [Description](#descriptionOfProject)
+    - [Installation](#installationOfProject)
+    - [Usage](#usageOfProject)
     - [License](#licenseOfProject)
     - [Test](#testOfProject)
     - [Issues](#issuesOfProject)
